@@ -1,0 +1,17 @@
+div {
+    display: inline-block;
+    text-align: center;
+    width: 0 auto;
+    margin: 0 auto;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }

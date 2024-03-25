@@ -1,0 +1,12 @@
+:root {
+    --laranja: #EB6440;
+  }
+
+.meuFooter{
+  background-color: var(--laranja);
+  color: #000000;
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+}
+

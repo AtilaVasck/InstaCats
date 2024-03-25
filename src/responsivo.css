@@ -1,0 +1,20 @@
+@media (max-width: 768px) {
+    .img-logo {
+      max-width: 60px;
+      max-height: 60px;
+    }
+  
+    nav a {
+      padding: 0.2rem; 
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .meuHeader, .meuFooter {
+      flex-direction: column; 
+    }
+  
+    nav a {
+      margin: 0.2rem; 
+    }
+  }

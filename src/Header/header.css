@@ -1,0 +1,25 @@
+:root {
+    --laranja: #EB6440;
+}
+
+.img-logo {
+  max-width: 90px;
+  max-height: 90px;
+  transform: rotate(180deg);
+  display: inline;
+}
+
+  .meuHeader{
+    background-color: var(--laranja);
+    background-color: var(--laranja);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem; 
+  }
+
+  nav a {
+    display: inline;
+    padding: 40px;
+  }
+  
